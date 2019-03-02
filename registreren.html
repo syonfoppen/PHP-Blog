@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>register</title>
+        <link rel="stylesheet" href="registreren.css">
+        <script src="script.js"></script>
+    </head>
+    <body>
+        <div id="background">
+            <table>
+                <tr>
+                    <td><div id="blog">BLOG</div></td>
+                    <td>
+                        <div id="box">
+                            <br><h2 id="head">Register</h2>
+                                <form action="registreren.php" method="post" enctype="multipart/form-data">
+                                    <input type="text" name="naam" class="name" id="name" placeholder="UserName" required>
+                                    <input type="email" name="e-mail" class="mail" id="mail" placeholder="Email" required>
+                                    <input type="password" name="password" class="password" id="password" placeholder="Password" required>
+                                    <input type="file" size="60" name="foto" id="foto"/>
+                                    <input type="submit" name="submit" class="login" id="login" value="Register">
+                                </form>
+                            <h5><a href="index.html">Cancel</a></h5>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </body>
+</html>
+<!--gemaakt door erel-->
