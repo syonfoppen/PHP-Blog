@@ -3,6 +3,8 @@ een php website die de gebruiker laat registreren en vervolgens berichten laat p
 alle gebruikers informatie word gencrypt en in een text bestand opgeslagen.
 dit was een groeps opdracht die ik voor school moest maken.
 
+ik heb alle php en html geschreven en iemand uit mijn groep heeft de css gedaan.
+
 # wat ik geleerd heb
 - Hoe je met php informatie uit een html form haalt
 - Hoe je met php informatie naar een tekst bestand kan schrijfen
