@@ -2,6 +2,7 @@
   session_start();
   $mijnsession = session_id();
   if (isset($_SESSION['ID']) && $_SESSION['ID'] === $mijnsession) {
+
   }
   else {
     echo "
@@ -112,7 +113,7 @@
             <textarea class="textinput" name="blogpost"></textarea>
             <br>
             <input type="submit" class="submit" name="post">
-            <a href="uitloggen.php"><input type="button" name="terug" value=" uitloggen " class="uitloggen"/></a>
+            <a href="uitloggen.php"><input type="button" name="Back" value=" uitloggen " class="uitloggen"/></a>
         </form>
     </body>
 </html>

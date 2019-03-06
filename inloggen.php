@@ -37,7 +37,7 @@ while(!feof($bestand))
 echo "
 <script>
 alert('Wachtwoord of gebruikersnaam ongeldig.');
-location.href='inloggen.html';
+location.href='index.html';
 </script>
 ";
 

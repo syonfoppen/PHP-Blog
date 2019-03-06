@@ -69,4 +69,4 @@ if(isset($_POST["submit"]))
 
 }
  ?>
- <a href="index.html"><input type="button" name="terug" value=" Terug " /></a>
+ <a href="index.html"><input type="button" name="Back" value=" Back " /></a>
