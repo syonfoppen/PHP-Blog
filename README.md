@@ -1,12 +1,4 @@
 # PHP-Blog
-een php website die de gebruiker laat registreren en vervolgens berichten laat plaatsen.
-alle gebruikers informatie word gencrypt en in een text bestand opgeslagen.
-dit was een groeps opdracht die ik voor school moest maken.
+This is one of my first ever PHP school projects. It’s a website where users can register/login and post messages. These messages are encrypted and stored in a text file. This is not the safest way to save data of course, but it was part of the exercise because we didn’t learn to use a database yet.
 
-ik heb alle php en html geschreven en iemand uit mijn groep heeft de css gedaan.
 
-# wat ik geleerd heb
-- Hoe je met php informatie uit een html form haalt
-- Hoe je met php informatie naar een tekst bestand kan schrijfen
-- hoe je met php informatie uit een tekst bestand kan halen
-- hoe je strings kan encrypten en weer kan decrypten in php
